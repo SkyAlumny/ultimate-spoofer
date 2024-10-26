@@ -21,3 +21,7 @@ contact me on Discord: https://discord.gg/fsyVt95b
 
 # SETUP TUTORIAL
 https://youtu.be/5Mme00Ds5bA
+
+![image](https://github.com/user-attachments/assets/4dfa2b3b-45cc-4634-8484-66452f063632)
+![image](https://github.com/user-attachments/assets/f2ac901c-29ec-41d8-894e-f77f5d0237f3)
+![image](https://github.com/user-attachments/assets/676885ab-ee53-47f7-a4eb-e1033a7efb72)

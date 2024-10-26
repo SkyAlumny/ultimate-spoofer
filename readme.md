@@ -2,7 +2,8 @@
 I made this woofer 1 year ago and sold it but the Source got resold. This is why i decided now to make it public since it is oudated anyways
 
 # 💎 Get your own Custom Woofer
-contact me on Discord: https://discord.gg/fsyVt95b
+contact me on Discord: https://discord.gg/fsyVt95b 
+(This Discord is only for custom request **I DONT GIVE SUPPORT FOR THIS AND YOU NEED TO UNDERSTAND C#/.Net Framework**)
 
 # Features
 - InApp Login / Register with KeyAuth

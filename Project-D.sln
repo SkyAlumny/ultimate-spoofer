@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project-D", "MyWindowsSpoofer\Project-D.csproj", "{821B86C0-BCB0-450A-B614-04D46BF2FC75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{821B86C0-BCB0-450A-B614-04D46BF2FC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821B86C0-BCB0-450A-B614-04D46BF2FC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821B86C0-BCB0-450A-B614-04D46BF2FC75}.Debug|x64.ActiveCfg = Debug|x64
+		{821B86C0-BCB0-450A-B614-04D46BF2FC75}.Debug|x64.Build.0 = Debug|x64
+		{821B86C0-BCB0-450A-B614-04D46BF2FC75}.Debug|x86.ActiveCfg = Debug|x86
+		{821B86C0-BCB0-450A-B614-04D46BF2FC75}.Debug|x86.Build.0 = Debug|x86
+		{821B86C0-BCB0-450A-B614-04D46BF2FC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821B86C0-BCB0-450A-B614-04D46BF2FC75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{821B86C0-BCB0-450A-B614-04D46BF2FC75}.Release|x64.ActiveCfg = Release|x64
+		{821B86C0-BCB0-450A-B614-04D46BF2FC75}.Release|x64.Build.0 = Release|x64
+		{821B86C0-BCB0-450A-B614-04D46BF2FC75}.Release|x86.ActiveCfg = Release|x86
+		{821B86C0-BCB0-450A-B614-04D46BF2FC75}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47ABE9BD-4783-42E8-B10D-FF2C1B5C2389}
+	EndGlobalSection
+EndGlobal
